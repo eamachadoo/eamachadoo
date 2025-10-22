@@ -86,12 +86,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eamachadoo&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="Eduardo Machado's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eamachadoo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
