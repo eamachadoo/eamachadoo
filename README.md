@@ -26,10 +26,8 @@ Making things that actually work.
 | Project | Description | Stack |
 |---|---|---|
 | 🧠 **NeuroElectroMap** | Neural spike analysis pipeline — raster plots, evoked firing, electrode mapping | Python, MATLAB |
-| 🔐 **ZK Proof of Reserves** | Privacy-preserving solvency proofs for Web3 finance — M.Sc. thesis at Uphold | Zero-Knowledge, Cryptography |
 | ⚽ **Football Player Tracking** | YOLOv5-based CV pipeline for detecting and tracking players across video frames | Python, YOLOv5, Computer Vision |
 | ✅ **Formal Verification (Dafny)** | Verified BST operations and loop invariants — Hoare Logic & Dynamic Frames | Dafny, TLA+ |
-| ⚡ **HPC — LU Factorization** | Parallel LU decomposition with cache-optimized tiling | C++, OpenMP, SYCL |
 
 ---
 
