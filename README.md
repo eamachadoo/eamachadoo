@@ -16,7 +16,6 @@ Formal verification, zero-knowledge proofs, applied ML — and making things tha
 
 ## Currently
 
-- 🔐 **M.Sc. Thesis** — *Privacy-Preserving Proof of Reserves using Zero-Knowledge Proofs*, in partnership with [Uphold](https://uphold.com) · graduating July 2027
 - 🏢 **Commercial dept. at [JuniFEUP](https://juniFEUP.pt)** — building zero-budget training programs and institutional outreach for Porto's tech community
 - 📚 **FEUP** — deepening work in formal methods, HPC, and applied machine learning
 
