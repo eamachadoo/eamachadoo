@@ -4,7 +4,7 @@
 
 **M.Sc. Informatics Engineering · FEUP**
 
-Formal verification, zero-knowledge proofs, applied ML — and making things that actually work.
+Making things that actually work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-machado-78020a2a1/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eamachado2003@gmail.com)
